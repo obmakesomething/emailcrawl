@@ -1,0 +1,561 @@
+﻿지점,account_name,industry_name,new_cluster,address_road,employee_count,found_website,emails
+건대,Gangnam Finance Partners,Finance and investment,Finance/Investment,101 Teheran-ro Gangnam-gu Seoul,310.0,https://www.superookie.com,
+건대,Seongsu Media Lab,Media production,Media/Entertain/Production,22 Seongsu-ro Seongdong-gu Seoul,65.0,https://job.bsks.ac.kr,
+건대,삼성에스디에스(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로35길,11414.0,https://www.samsungsds.com,
+건대,수협은행,국내은행,Finance/Investment,서울특별시 송파구 오금로,1946.0,https://www.suhyup-bank.com,
+건대,코리아세븐(주),상품 종합 도매업,Logistics/Trading,서울특별시 강동구 천호대로,1874.0,https://www.7-eleven.co.kr,
+건대,주식회사 무신사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로13길,1817.0,https://www.musinsa.com,
+건대,미라콤아이앤씨(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로35길,1737.0,https://miracom-inc.com,
+건대,롯데컬처웍스(주),영화관 운영업,Media/Entertain/Production,서울특별시 송파구 올림픽로,1481.0,https://www.ezday.co.kr,marketing@ezday.co.kr; ezday@ezday.co.kr
+건대,대원제약주식회사,완제 의약품 제조업,Healthcare/Pharma,서울특별시 성동구 천호대로,1327.0,https://www.daewonpharm.com,sijung@daewonpharm.com
+건대,현대하이카손해사정(주),보험 대리 및 중개업,Finance/Investment,서울특별시 송파구 송파대로,1153.0,https://www.hicar.co.kr,
+건대,(주)이글루코퍼레이션,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 정의로8길,1116.0,https://www.igloo.co.kr,
+건대,(주)희림종합건축사사무소,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 강동구 상일로6길,1032.0,https://www.heerim.com,recruit@heerim.com; webmaster@heerim.com; hotline_em@heerim.com
+건대,현대홈쇼핑(주),방송 프로그램 제작업,Media/Entertain/Production,서울특별시 강동구 올림픽로70길,1006.0,https://www.hmall.com,
+건대,(주)이마트24,상품 종합 도매업,Logistics/Trading,서울특별시 성동구 광나루로,940.0,https://www.emart24.co.kr,
+건대,한양대학교 산학협력단,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 성동구 왕십리로,850.0,http://www.kyosu.net,editor@kyosu.net
+건대,(주)삼우씨엠건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 백제고분로,808.0,https://www.samoocm.com,
+건대,주식회사 동해종합기술공사,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 광나루로6길,789.0,https://weseb.com,
+건대,(주)수성엔지니어링,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 정의로8길,738.0,https://www.soosungeng.com,
+건대,한국아이큐비아 주식회사,의료 기기 도매업,Healthcare/Pharma,서울특별시 송파구 송파대로,726.0,https://www.iqvia.com,
+건대,해양환경공단,외항 화물 운송업,Logistics/Trading,서울특별시 송파구 송파대로28길,713.0,https://www.koem.or.kr,
+건대,환인제약(주),완제 의약품 제조업,Healthcare/Pharma,서울특별시 송파구 법원로6길,640.0,https://www.whanin.com,
+건대,서울올림픽기념국민체육진흥공단,광고 대행업,Media/Entertain/Production,서울특별시 송파구 올림픽로,615.0,http://www.kyosu.net,editor@kyosu.net
+건대,주식회사 에이피알,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로,612.0,https://www.apr-in.com,
+건대,영진약품(주),완제 의약품 제조업,Healthcare/Pharma,서울특별시 송파구 올림픽로35다길,611.0,https://www.yungjin.co.kr,
+건대,(주)동일기술공사,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 송이로30길,537.0,http://www.dongileng.co.kr,
+건대,오티스서비스엑스퍼트유한회사,상품 종합 도매업,Logistics/Trading,서울특별시 강동구 성내로6길,523.0,https://bizno.net,
+건대,데상트코리아주식회사,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 올림픽로,470.0,http://fpost.co.kr,
+건대,와이즈와이어즈(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로,454.0,https://www.wisewires.com,
+건대,더화이트커뮤니케이션(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로24길,448.0,http://www.thewc.co.kr,help@thewc.co.kr
+건대,에이앤유디자인그룹건축사사무소(주),건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 충민로,438.0,https://2102change.rank365.co.kr,
+건대,(주)건축사사무소건원엔지니어링,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 송파대로,430.0,https://consline.co.kr,
+건대,(주)제너시스비비큐,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 중대로,430.0,http://www.genesiskorea.co.kr,
+건대,(주)동구바이오제약,완제 의약품 제조업,Healthcare/Pharma,서울특별시 송파구 법원로,428.0,https://www.dongkoo.com,
+건대,현대에이치디에스(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 송파대로,402.0,https://www.hyundaihds.co.kr,
+건대,에스코어주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로35길,401.0,https://brunch.co.kr,
+건대,인카금융서비스(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로,389.0,https://www.incar.co.kr,
+건대,(주)시지바이오,전기식 진단 및 요법 기기 제조업,Healthcare/Pharma,서울특별시 성동구 상원12길,361.0,https://www.cgbio.co.kr,cgwebmaster@cgbio.co.kr; iriskim@cgbio.co.kr
+건대,칼자이스(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 법원로,352.0,https://www.zeiss.co.kr,
+건대,클리오(주),상품 종합 도매업,Logistics/Trading,서울특별시 성동구 왕십리로,352.0,https://www.cliocosmetic.com,sykim1@clio.co.kr; clioir@clio.co.kr; ebcha1208@clio.co.kr
+건대,(주)에코마케팅,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 올림픽로35다길,346.0,https://echomarketing.co.kr,
+건대,건국대학교산학협력단,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 광진구 자양로,335.0,https://research.konkuk.ac.kr,
+건대,(주)녹십자웰빙,완제 의약품 제조업,Healthcare/Pharma,서울특별시 성동구 왕십리로,327.0,https://www.ppomppu.co.kr,webmaster@ppomppu.co.kr
+건대,이카운트(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 강동구 고덕비즈밸리로6길,326.0,https://www.ecount.com,askmail@ecount.com
+건대,에이스메디칼(주),전기식 진단 및 요법 기기 제조업,Healthcare/Pharma,서울특별시 강동구 고덕비즈밸리로4길,317.0,https://weseb.com,
+건대,주식회사 블루어드,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로9길,315.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,한국환경보전원,환경 관련 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 광나루로,307.0,https://www.keci.or.kr,
+건대,세종대학교산학협력단,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 광진구 능동로,304.0,http://rnd.sejong.ac.kr,
+건대,알서포트 주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 강동구 고덕비즈밸리로2가길,304.0,https://www.rsupport.com,sales.kr@rsupport.com
+건대,(주)플래티어,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로9길,300.0,https://www.plateer.com,
+건대,(주)토문엔지니어링건축사사무소,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 충민로,299.0,https://www.tomoon.co.kr,
+건대,노보노디스크제약(주),의약품 도매업,Healthcare/Pharma,서울특별시 송파구 올림픽로35길,297.0,https://www.novonordisk.co.kr,infokorea@novonordisk.com
+건대,(주)신도리코,사무용 기계 및 장비 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 성수이로24길,294.0,https://www.sindoh.com,
+건대,(주)이씨오,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 광나루로6길,285.0,http://www.eco.co.kr,E-mail.sales@eco.co.kr
+건대,(주)한국에스웨이,경영 컨설팅업,Consulting/Professional Service,서울특별시 강동구 천호대로,283.0,http://www.s-waykorea.com,7777@s-waykorea.com
+건대,(주)보령바이오파마,완제 의약품 제조업,Healthcare/Pharma,서울특별시 강동구 고덕비즈밸리로2길,280.0,https://www.boryungbio.co.kr,
+건대,(주)키다리스튜디오,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 연무장11길,280.0,https://www.kidaristudio.com,
+건대,주식회사 유비케어,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 왕십리로,272.0,https://www.ubcare.co.kr,master@ubcare.co.kr
+건대,롯데지주주식회사,경영 컨설팅업(경영지도사),Consulting/Professional Service,서울특별시 송파구 올림픽로,269.0,https://www.lotte.co.kr,
+건대,(주)지아이티,유선 통신장비 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 마천로,269.0,https://www.gitauto.com,
+건대,한국인터텍테스팅서비스(주),기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 아차산로5길,266.0,https://www.biztop.co.kr,
+건대,(주)토문건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,,265.0,https://skinnara.co.kr,
+건대,다이닝브랜즈그룹 주식회사,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 올림픽로,261.0,http://www.bhc.co.kr,info@brand.com
+건대,쿠팡페이 주식회사,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 송파구 송파대로,261.0,https://recipe.yorida.com,
+건대,오픈핸즈주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로35길,256.0,https://jcenter.kangnam.ac.kr,
+건대,주식회사 엘아이지홈앤밀,상품 종합 도매업,Logistics/Trading,서울특별시 성동구 성수일로12길,254.0,https://www.lighnm.kr,hnm.mkt@lig.kr
+건대,크리스피드(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로11길,254.0,https://www.theteams.kr,
+건대,경희대학교산학협력단,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 동대문구 경희대로,253.0,https://research.khu.ac.kr,oek8524@khu.ac.kr; sti2025@estmice.co.kr; eysong@khu.ac.kr
+건대,(주)태조엔지니어링,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 백제고분로,247.0,http://www.teso.co.kr,
+건대,(주)와이즈스톤티,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 오금로13길,243.0,https://thewiki.kr,
+건대,한패스 주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로,243.0,https://www.hanpass.com,abcd@domain.com; contact@hanpass.com
+건대,리파인 주식회사,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 송파구 송파대로49길,238.0,https://www.refine.co.kr,
+건대,(주)아이패밀리에스씨,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 동남로,237.0,https://www.ifamily.co.kr,ifamily@ifamilysc.co.kr
+건대,(주)이앤에스,화물 운송 중개  대리 및 관련 서비스업,Logistics/Trading,서울특별시 송파구 법원로11길,235.0,https://weseb.com,
+건대,주식회사넌럭셔리어스컴퍼니,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 백제고분로,233.0,https://stockcatcher.co.kr,
+건대,한방유비스(주),건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 성동구 성수일로,225.0,http://www.kfubis.co.kr,kfpe1119@kfubis.com
+건대,유코카캐리어스주식회사,외항 화물 운송업,Logistics/Trading,서울특별시 송파구 올림픽로,220.0,https://www.eukor.com,
+건대,서울경기양돈축산업협동조합,신용조합,Finance/Investment,서울특별시 강동구 상암로,211.0,https://weseb.com,
+건대,(주)시너지컨설팅,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 왕십리로24나길,206.0,http://www.thesynergy.co.kr,ngine@thesynergy.co.kr; cs@thesynergy.co.kr
+건대,한국지역난방기술(주),기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로,202.0,https://www.kdhec.com,
+건대,주식회사 페코텍,기타 반도체 소자 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 동일로,202.0,https://2102change.rank365.co.kr,
+건대,티에이치파트너스 주식회사,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 삼전로,201.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,한국보건의료연구원,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 광진구 능동로,196.0,https://www.neca.re.kr,
+건대,111퍼센트 주식회사,시각 디자인업,Media/Entertain/Production,서울특별시 성동구 성수이로16길,194.0,https://www.gimhae.go.kr,logo@2x.png; f_logo@2x.png; foot_logo@2x.png
+건대,송파농업협동조합,신용조합,Finance/Investment,서울특별시 송파구 송파대로,193.0,https://songpa.nonghyup.com,
+건대,(주)마키노차야,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 송파대로,188.0,https://www.makinochaya.co.kr,
+건대,（주）타임게이트,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로,187.0,https://www.diningcode.com,
+건대,주식회사원티드랩,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로,185.0,https://www.startupn.kr,
+건대,슈퍼센트 주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로,184.0,https://www.inven.co.kr,help@inven.co.kr
+건대,(주)전인씨엠건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 백제고분로17길,183.0,http://www.jiarc.com,
+건대,(주)하우드엔지니어링종합건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 위례성대로22길,182.0,https://www.biztop.co.kr,
+건대,(주)에스엠컬처앤콘텐츠 광고사업부문,광고 대행업,Media/Entertain/Production,서울특별시 성동구 왕십리로,182.0,https://weseb.com,
+건대,대현회계법인,세무사업,Consulting/Professional Service,서울특별시 광진구 능동로,181.0,https://www.daehyuncpas.co.kr,
+건대,주식회사 스마트스코어,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 송파구 정의로,181.0,https://www.smartscore.kr,
+건대,(주)엑스퍼트컨설팅,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 중대로,179.0,https://www.exc.co.kr,help@exc.co.kr
+건대,(주)경포씨엔씨,컴퓨터 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 성수일로12길,177.0,https://www.114.co.kr,
+건대,주식회사 두핸즈,광고 대행업,Media/Entertain/Production,서울특별시 성동구 왕십리로,174.0,https://dohands.com,
+건대,주식회사솔트룩스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로35길,174.0,https://www.saltlux.com,
+건대,주식회사베어로보틱스코리아,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 성동구 성수일로,172.0,https://www.superookie.com,
+건대,주식회사 장민이엔씨,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 충민로,169.0,https://www.theteams.kr,
+건대,바이탈에어코리아(주),의료 기기 도매업,Healthcare/Pharma,서울특별시 송파구 충민로,169.0,https://www.theteams.kr,
+건대,주식회사 에스티에이테스팅컨설팅,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 광진구 자양강변길,167.0,https://www.sta.co.kr,edu@sta.co.kr; sales@sta.co.kr; sta@sta.co.kr
+건대,한국다케다제약주식회사,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 올림픽로,166.0,https://www.takeda.com,Media_Relations@takeda.com; virginiaamann@ententeinc.com; cdavis@lifesciadvisors.com)\n\n+1
+건대,주식회사 에이프로젠바이오로직스,완제 의약품 제조업,Healthcare/Pharma,서울특별시 송파구 백제고분로,163.0,http://www.aprogen-biologics.com,
+건대,주식회사 모디엠,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로4길,163.0,http://www.modim.co.kr,
+건대,(주)에스엠케이티앤아이,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 올림픽로35길,162.0,https://www.sportsseoul.com,swiper@4.5.1.min.js; jquery@1.11.1.min.js
+건대,(주)태성에스엔이,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로7길,160.0,https://www.tsne.co.kr,
+건대,재단법인 성동문화재단,공연 기획업,Media/Entertain/Production,서울특별시 성동구 고산자로10길,159.0,https://www.mimint.co.kr,master@mimint.co.kr
+건대,주식회사 맨텍솔루션,시스템 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로4길,154.0,https://www.mantech.co.kr,cs@mantech.co.kr; info@mantech.co.kr
+건대,(주)유니온바이오메트릭스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로,154.0,https://weseb.com,
+건대,기산전자(주),유선 통신장비 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 성수이로20길,151.0,https://www.crossdesign.co.kr,master@crossdesign.co.kr
+건대,대상정보기술(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 광진구 천호대로,151.0,https://www.daesangit.com,
+건대,메틀러토레도코리아(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 송파대로,150.0,https://www.mt.com,
+건대,주식회사플그림,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 연무장5가길,150.0,https://2102change.rank365.co.kr,
+건대,동서울농업협동조합,국내은행,Finance/Investment,서울특별시 중랑구 망우로,148.0,https://dongseoul.nonghyup.com,
+건대,주식회사 디쉐어,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 성수일로12길,147.0,https://bizno.net,
+건대,중앙농업협동조합,국내은행,Finance/Investment,서울특별시 광진구 뚝섬로,147.0,https://sjanh.nonghyup.com,
+건대,지수회계법인,공인회계사업,Consulting/Professional Service,서울특별시 송파구 법원로,146.0,https://webzine.kicpa.or.kr,
+건대,(주)쿠프마케팅,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로10길,146.0,https://www.coopnc.com,
+건대,(주)대유넥스티어,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 상원12길,146.0,https://www.life114.co.kr,
+건대,건아정보기술주식회사,기타 반도체 소자 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 올림픽로,144.0,https://www.keona.co.kr,
+건대,테라다인코리아 유한회사,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 송파대로,143.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,건흥전기(주),배전반 및 전기 자동제어반 제조업,Manufacturing/Industrial Ops,서울특별시 동대문구 한천로,143.0,http://www.koino.com,Salesdept@koino.co.kr
+건대,주식회사올투딜리셔스,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 법원로8길,142.0,https://weseb.com,
+건대,(주)어빌리티시스템즈,컴퓨터 시스템 통합 자문 및 구축 서비스업,Tech/Startup/SaaS,서울특별시 송파구 송파대로,142.0,http://www.abilsys.com,abilitysystems@goability.co.kr
+건대,(주)휴먼텍코리아엔지니어링건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로,139.0,http://www.humanteceng.co.kr,
+건대,(주)제이에스앤뉴,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 올림픽로,139.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,주식회사레시피그룹（recipegroupco．，ltd）,광고 대행업,Media/Entertain/Production,서울특별시 성동구 성수일로10길,138.0,https://weseb.com,
+건대,(주)범씨엠건축사사무소,건축 설계 및 관련 서비스업(건축사),Consulting/Professional Service,서울특별시 송파구 송파대로,137.0,http://www.baumcm.co.kr,
+건대,닥터블릿헬스케어 주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 뚝섬로1길,137.0,https://www.biztop.co.kr,
+건대,(주)아스템즈,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 광진구 광나루로56길,134.0,https://www.astems.co.kr,
+건대,주식회사블루엘리펀트,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로5길,134.0,https://www.kmib.co.kr,
+건대,주식회사 인포젠,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 강동구 고덕비즈밸리로,133.0,https://5105egg15.rank365.co.kr,
+건대,(주)이노룰스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로6길,133.0,https://www.innorules.com,
+건대,서울강동농업협동조합,신용조합,Finance/Investment,서울특별시 강동구 구천면로,132.0,https://kdnh.nonghyup.com,
+건대,씨앤에프시스템(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로11길,129.0,http://www.cnfsystem.co.kr,
+건대,(주)한국시설안전연구원,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 왕십리로,128.0,https://www.whitepaper.co.kr,support@dable.io; white@whitepaper.co.kr
+건대,（주）시큐레이어,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로4길,128.0,https://weseb.com,
+건대,주식회사어센틱금융그룹,보험 대리 및 중개업,Finance/Investment,서울특별시 성동구 성수일로6길,126.0,https://theking.ggudol.com,
+건대,주식회사 아른,상품 종합 도매업,Logistics/Trading,서울특별시 성동구 아차산로11길,126.0,https://thewiki.kr,
+건대,(주)브랜드501,화장품 및 화장용품 도매업,Logistics/Trading,서울특별시 성동구 아차산로9길,125.0,http://brand501.com,brand501@brand501.com
+건대,피앤피화재특종손해사정(주),손해 사정업,Consulting/Professional Service,서울특별시 성동구 왕십리로,124.0,https://www.biztop.co.kr,
+건대,（주）버즈빌,광고 대행업,Media/Entertain/Production,서울특별시 송파구 석촌호수로,122.0,https://www.theteams.kr,
+건대,(주) 범건축종합건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 송파대로,121.0,http://www.baum.co.kr,baum@baum.co.kr; recruit@baum.co.kr
+건대,플랜비손해사정앤컨설팅주식회사,손해 사정업,Consulting/Professional Service,서울특별시 성동구 연무장5길,121.0,http://www.planbnc.com,8c4075d5481d476e945486754f783364@sentry.io
+건대,(주) 위드컴,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 백제고분로,117.0,http://withc.kr,
+건대,주식회사 코아시아세미(CoAsia SEMI Corporation),기타 반도체 소자 제조업,Manufacturing/Industrial Ops,경기도 화성시 동탄첨단산업1로,117.0,http://www.coasiasemi.com,manager@coasiasemi.com
+건대,사단법인기후솔루션,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 성동구 뚝섬로1나길,117.0,https://www.whitepaper.co.kr,support@dable.io; white@whitepaper.co.kr
+건대,주식회사에누마코리아,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 뚝섬로1나길,117.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,브레인즈컴퍼니 주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로,116.0,https://www.brainz.co.kr,
+건대,한국국제보건의료재단,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 광진구 능동로,115.0,https://www.invione.com,
+건대,주식회사커머스웨어,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 광나루로8길,115.0,https://weseb.com,
+건대,주식회사넥스파시스템,물질 검사  측정 및 분석 기구 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 백제고분로,114.0,http://www.nexpa.co.kr,
+건대,(주)필라웨어,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로7길,113.0,http://m.maybugs.com,
+건대,(주)동원헬스케어,의약품 도매업,Healthcare/Pharma,서울특별시 강동구 상일로,111.0,https://www.dwpw.co.kr,
+건대,(주)진엔지니어링건축사사무소,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 아차산로17길,110.0,https://skinnara.co.kr,
+건대,이엔셀주식회사,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 송파구 송파대로,109.0,https://www.encellinc.com,
+건대,주식회사 엔키화이트햇,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 송파대로,107.0,https://enki.co.kr,biz@enki.co.kr
+건대,(주)모아소프트,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 오금로,107.0,https://bbs.ruliweb.com,
+건대,에스지바이오사이언스 주식회사,의약품 도매업,Healthcare/Pharma,서울특별시 동대문구 답십리로,106.0,https://www.fmkorea.com,help@fmkorea.com
+건대,(주)한빛엔지니어링건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로,105.0,https://www.biztop.co.kr,
+건대,(주)한싹,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 강동구 고덕비즈밸리로2가길,105.0,https://www.hanssak.co.kr,mhw@hanssak.co.kr; tech@hanssak.co.kr; sji@hanssak.co.kr
+건대,프라임에셋(주),보험 대리 및 중개업,Finance/Investment,서울특별시 광진구 아차산로,104.0,https://www.primeasset.kr,
+건대,큐렉소(주),의료 기기 도매업,Healthcare/Pharma,서울특별시 송파구 위례순환로,104.0,https://www.curexo.com,
+건대,주식회사웰브릿지,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 올림픽로,103.0,http://www.wellbridge.co.kr,
+건대,케이지손해사정서비스주식회사,손해 사정업,Consulting/Professional Service,서울특별시 성동구 성수이로,103.0,https://skinnara.co.kr,
+건대,주식회사 태인로지스,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 광나루로,102.0,https://weseb.com,
+건대,(주)코스모진텍,물질 검사  측정 및 분석 기구 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 성수이로10길,102.0,http://www.cosmogenetech.com,
+건대,(주)피엑스디,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로20길,102.0,https://pxd.co.kr,info@pxd.co.kr; job@pxd.co.kr
+건대,（주）에스엠브랜드마케팅,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 왕십리로,100.0,https://www.biztop.co.kr,
+건대,(주)한국젬스,상품 종합 도매업,Logistics/Trading,서울특별시 광진구 천호대로,100.0,http://www.gemskorea.com,hjseo@gemskorea.com; kjsung@gemskorea.com; parkjy@gemskorea.com
+건대,(주)마더브레인,광고 대행업,Media/Entertain/Production,서울특별시 성동구 연무장5길,100.0,http://www.motherbrain.co.kr,job-manager@motherbrain.co.kr; contact@motherbrain.co.kr
+건대,(주)하이랜드푸드,상품 종합 도매업,Logistics/Trading,서울특별시 강동구 풍성로,98.0,https://skinnara.co.kr,
+건대,이에이트 주식회사,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로,98.0,https://e8ight.co.kr,consulting@e8ight.co.kr
+건대,주식회사 엠지알브이,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 왕십리로,97.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,(주)세송아이티,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로4길,97.0,http://www.itenjoy.co.kr,
+건대,(주)삼우엠이피컨설턴트,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 아차산로15길,96.0,http://www.smcl.co.kr,
+건대,넷스루(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 광나루로8길,96.0,https://www.nethru.co.kr,sales@nethru.co.kr
+건대,(주)한국구조물안전연구원,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 송이로,95.0,http://www.kisi-inc.co.kr,
+건대,(주)에이치씨디엠（HCDMCO．，Ltd）,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 강동구 구천면로,94.0,http://carmap.co.kr,
+건대,페리코리아 유한회사,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 법원로,94.0,https://www.perikorea.com,info@perikorea.com
+건대,보우시스템(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 삼학사로,94.0,http://www.bowoosystem.com,sales@bowoosystem.com; h_logo_white@2x.png
+건대,한광전기공업(주),배전반 및 전기 자동제어반 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 아차산로,94.0,https://weseb.com,
+건대,(주) 쓰리탑,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 뚝섬로1길,94.0,http://www.3top.co.kr,contactus@3top.co.kr
+건대,주식회사 쉬엔비(shenb Co. Ltd.),상품 종합 도매업,Logistics/Trading,서울특별시 성동구 성수이로,93.0,https://www.shenb.co.kr,
+건대,한국피부과학연구원 주식회사,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 송파구 법원로11길,93.0,https://www.skinresearch.or.kr,
+건대,주식회사더스윙오퍼레이션,시각 디자인업,Media/Entertain/Production,서울특별시 동대문구 장한로,93.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,주식회사 디오에프,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로,93.0,https://www.doflab.com,
+건대,주식회사엔젤로보틱스,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 광진구 광나루로56길,92.0,https://www.angel-robotics.com,contact@angel-robotics.com
+건대,재단법인 롯데문화재단,공연 기획업,Media/Entertain/Production,서울특별시 송파구 올림픽로,91.0,https://bbs.ruliweb.com,
+건대,주식회사 유엔파인,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 연무장5가길,91.0,https://weseb.com,
+건대,(주)맵퍼스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 오금로,91.0,https://www.mappers.kr,mappers-biz@mappers.kr; atlanmkt@mappers.kr; atlansmart@mappers.kr
+건대,(주)온앤온정보시스템,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 강동구 양재대로,90.0,http://onandon.co.kr,kkpark@onandon.co.kr
+건대,냉동냉장수산업협동조합,신용조합,Finance/Investment,서울특별시 광진구 자양로,89.0,https://weseb.com,
+건대,(주)펀진,컴퓨터 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 연무장5가길,89.0,https://www.funzin.co.kr,
+건대,주식회사 붐잇게임즈,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 중대로,89.0,https://thewiki.kr,
+건대,주식회사 와이엠엑스,컴퓨터 시스템 통합 자문 및 구축 서비스업,Tech/Startup/SaaS,서울특별시 성동구 성수일로4길,89.0,https://ymx.co.kr,
+건대,(재)한국품질재단,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 삼전로,88.0,https://www.kfq.or.kr,
+건대,지엠테크주식회사,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로9길,88.0,http://www.gmtech.co.kr,
+건대,특허법인(유한)KBK,변리사업,Consulting/Professional Service,서울특별시 송파구 올림픽로,88.0,https://www.kbkpat.com,webmaster@kbkpat.com
+건대,프레지니우스카비코리아(주),의약품 도매업,Healthcare/Pharma,서울특별시 송파구 백제고분로,88.0,http://www.fresenius-kabi.co.kr,
+건대,한국백신판매주식회사,의료용품 도매업,Healthcare/Pharma,서울특별시 송파구 마천로5길,88.0,https://www.samsung.com,sns-facebook@3x.png
+건대,한영시스텍주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 송파대로,88.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,(주)진양엔지니어링건축사사무소,건축 설계 및 관련 서비스업(건축사),Consulting/Professional Service,서울특별시 송파구 동남로,87.0,https://consline.co.kr,
+건대,덴츠플라이코리아(유),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 법원로,86.0,https://www.dentsplysirona.com,
+건대,(주)위즈베이스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로7길,86.0,http://www.wizbase.co.kr,
+건대,(주)케이씨엠씨,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 백제고분로7길,85.0,https://weseb.com,
+건대,(주)한국국토안전연구원,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 아차산로,85.0,https://www.biztop.co.kr,
+건대,주식회사시너지랩,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 왕십리로24나길,85.0,https://weseb.com,
+건대,백양엔지니어링(주),기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 충민로,84.0,http://www.baekyangeng.co.kr,
+건대,(주)범도시건축종합건축사사무소,건축 설계 및 관련 서비스업(건축사),Consulting/Professional Service,서울특별시 성동구 왕십리로,84.0,https://masilwide.com,
+건대,(주)이루다마케팅,광고 대행업,Media/Entertain/Production,서울특별시 성동구 아차산로17길,84.0,https://e-ruda.net,ad@e-ruda.co.kr
+건대,(주)지아이이노베이션,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 송파구 송파대로,84.0,https://www.gi-innovation.com,ir@gi-innovation.com
+건대,주식회사 알리스타종사,광고 대행업,Media/Entertain/Production,서울특별시 성동구 성수일로,83.0,https://tcatmon.com,
+건대,(주)건축사사무소아라그룹,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로9길,82.0,https://weseb.com,
+건대,주식회사엔미디어플랫폼,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로,82.0,http://www.nmp-corp.com,nmp@nmp-corp.com
+건대,동아쏘시오홀딩스(주),완제 의약품 제조업,Healthcare/Pharma,서울특별시 동대문구 천호대로,81.0,https://www.donga.co.kr,
+건대,경보전기(주),배전반 및 전기 자동제어반 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 성수일로12가길,81.0,https://www.kyongbo.co.kr,
+건대,(주)케이엑스이노베이션,지상파 방송업,Media/Entertain/Production,서울특별시 강동구 고덕비즈밸리로6길,81.0,https://kxgroup.co.kr,
+건대,어썸엔터테인먼트주식회사,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 성동구 연무장5가길,81.0,https://dduri.co.kr,
+건대,(주)바로건설기술,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 강동구 풍성로38길,80.0,https://www.baro-ck.com,baro-ck@baro-ck.com
+건대,카페스 주식회사,전동기 및 발전기 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 삼학사로,80.0,https://2102change11.rank365.co.kr,
+건대,일그램,광고 대행업,Media/Entertain/Production,서울특별시 광진구 광나루로24길,80.0,https://picory.com,
+건대,(주)코아뱅크,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 백제고분로,80.0,https://www.kebhana.com,
+건대,신덕약품(주),의약품 도매업,Healthcare/Pharma,서울특별시 동대문구 장한로12길,77.0,http://www.shindukpharm.co.kr,
+건대,소노바코리아 유한회사,상품 종합 도매업,Logistics/Trading,서울특별시 성동구 성수일로12길,77.0,https://weseb.com,
+건대,주식회사 케이엑스넥스지,컴퓨터 제조업,Manufacturing/Industrial Ops,서울특별시 강동구 고덕비즈밸리로6길,77.0,https://www.nexg.net,marketing@nexg.net
+건대,주식회사휴비즈(hyubizCo. Ltd),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로17길,77.0,https://www.crossdesign.co.kr,master@crossdesign.co.kr
+건대,(주)엠투소프트,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로7길,77.0,http://www.m2soft.co.kr,contact@m2soft.co.kr
+건대,(주)코아시아넥셀,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 정의로,77.0,http://www.nexell.co.kr,hspark@coasia.com; sales@coasianexell.com; sean.joo@coasia.com
+건대,(주)오프비트,기타 게임 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 강남구 테헤란로4길,77.0,https://www.gamegeneration.or.kr,aska.mayer@tuni.fi; danger8749@qq.com; phanquanganh@vnu.edu.vn
+건대,주식회사 엠와이소셜컴퍼니,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 연무장13길,76.0,https://weseb.com,
+건대,（주）민들레　인터내셔널,상품 종합 도매업,Logistics/Trading,서울특별시 광진구 용마산로,76.0,https://pann.nate.com,
+건대,법무법인코러스,변호사업,Consulting/Professional Service,서울특별시 중랑구 봉화산로56길,75.0,https://life114.co.kr,
+건대,(주)라미체홀딩스,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 올림픽로8길,75.0,http://wwv.soonwidot.co.kr,
+건대,(주)씨브이네트,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 송파구 송파대로,75.0,https://weseb.com,
+건대,(주)경희매니지먼트컴퍼니,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 동대문구 경희대로3길,75.0,http://kh-kmc.co.kr,
+건대,주식회사지티이노비젼(GTINOVISIONCo. Ltd.),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 상원1길,75.0,http://www.gtsoft.co.kr,
+건대,법무법인 한울,변호사업,Consulting/Professional Service,서울특별시 송파구 법원로,74.0,https://skinnara.co.kr,
+건대,에이앤유씨엠건축사사무소(주),건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 충민로,74.0,https://www.biztop.co.kr,
+건대,글로리아항공(주),데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 동대문구 왕산로,74.0,https://www.kac.sc.kr,
+건대,（주）에버원소프트,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 송파대로,74.0,https://weseb.com,
+건대,주식회사신시웨이,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로9길,74.0,https://www.sinsiway.com,
+건대,셀파이엔씨(주),기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 새말로,73.0,https://weseb.com,
+건대,(주)씨앤피동양,건물 및 토목 엔지니어링 서비스업(기술사),Consulting/Professional Service,서울특별시 송파구 법원로11길,73.0,http://www.cnpgroup.co.kr,dy_careers@cnpgroup.co.kr; iworks@cnpgroup.co.kr; snkim@dysec.co.kr
+건대,주식회사 덱스컨설팅,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 뚝섬로17가길,73.0,https://www.dexconsulting.net,sc.jung@dexconsulting.net
+건대,특허법인한얼(HANOLIntellectualPropertyandLaw),변리사업,Consulting/Professional Service,서울특별시 송파구 법원로,73.0,http://www.hanollawip.com,insa@hanollawip.com; hanol@hanollawip.com
+건대,케이엠아이에셋(주),보험 대리 및 중개업,Finance/Investment,서울특별시 강동구 천호대로,73.0,https://www.life114.co.kr,
+건대,(주)유니파이,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 성동구 광나루로,73.0,https://www.clien.net,admin@clien.net
+건대,(주)아롬정보기술,컴퓨터 시스템 통합 자문 및 구축 서비스업,Tech/Startup/SaaS,서울특별시 성동구 성수이로20길,73.0,http://aromit.com,
+건대,주식회사 해줌,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로,73.0,https://haezoom.com,
+건대,(주)나무커뮤니케이션,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 송파구 중대로,72.0,https://www.namukorea.com,
+건대,씨케이 주식회사,상품 종합 도매업,Logistics/Trading,서울특별시 동대문구 약령동길,71.0,http://www.38.co.kr,
+건대,한국양토양록축산업협동조합,신용조합,Finance/Investment,서울특별시 광진구 영화사로,70.0,https://korrnd.nonghyup.com,
+건대,(주)한국아이티에스,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 위례순환로,70.0,https://weseb.com,
+건대,(주)데일리앤코,화장품 및 화장용품 도매업,Logistics/Trading,서울특별시 송파구 올림픽로35다길,70.0,https://www.dailynco.com,business@echomarketingsg.com; customerservice_sg@dailynco.com
+건대,주식회사　플라이바이(FLYBYCo. Ltd.),상품 종합 도매업,Logistics/Trading,서울특별시 성동구 성수일로,70.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,신영비엠이주식회사,건물 및 토목 엔지니어링 서비스업(기술사),Consulting/Professional Service,서울특별시 송파구 송파대로,69.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,주식회사 지케이엔지니어링,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로,69.0,https://weseb.com,
+건대,한국룬드벡주식회사,의약품 도매업,Healthcare/Pharma,서울특별시 송파구 올림픽로35길,69.0,https://www.lundbeck.com,info@lundbeck.com
+건대,(주)하이테커,시스템 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 상원12길,69.0,https://weseb.com,
+건대,주식회사 올데이프레쉬,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 중대로12길,68.0,https://www.startupn.kr,
+건대,(사단법인)한국건설안전협회,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로9길,68.0,https://www.kocosa.co.kr,
+건대,센트럴메디컬서비스(주),의약품 도매업,Healthcare/Pharma,서울특별시 광진구 천호대로,68.0,https://weseb.com,
+건대,주식회사 케이디헬스케어,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 충민로,68.0,https://weseb.com,
+건대,주식회사 에이아이에프솔루션,시스템 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로7길,68.0,https://bizno.net,
+건대,신우디엔시(주),건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로,67.0,http://sinwoodnc.co.kr,swdnc@chol.com
+건대,(주)제너시스,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 중대로,67.0,https://www.genesis.com,
+건대,씨앤유플러스주식회사,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 성수이로,67.0,https://www.cnuplus.co.kr,
+건대,한국페링제약(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 올림픽로35길,67.0,https://www.theteams.kr,
+건대,에스케이일렉링크 주식회사,컴퓨터 시스템 통합 자문 및 구축 서비스업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로,66.0,https://skelectlink.co.kr,
+건대,주식회사 코페이,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 성동구 성수일로,66.0,https://www.korpay.com,pg_help@korpay.com; rm@korpay.com; privacy@korpay.com
+건대,(주)라티스글로벌커뮤니케이션스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 삼학사로,66.0,https://latisglobal.com,contact@latisglobal.com
+건대,(주)오쎄,화장품 및 화장용품 도매업,Logistics/Trading,서울특별시 성동구 아차산로,65.0,https://www.osse.co.kr,
+건대,(주)버텍스아이디,컴퓨터 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 송이로,65.0,https://a5525thu54.gsndfc.co.kr,
+건대,유미어스주식회사,컴퓨터 시스템 통합 자문 및 구축 서비스업,Tech/Startup/SaaS,서울특별시 성동구 성수이로10길,65.0,https://weseb.com,
+건대,(주)케이에스알큰사람,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 올림픽로35가길,64.0,http://큰사람.com,
+건대,씨에스에이그룹코리아(유),경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 위례순환로,64.0,https://www.kats.go.kr,
+건대,하나로손해사정주식회사,보험 대리 및 중개업,Finance/Investment,서울특별시 동대문구 한천로2길,64.0,https://yaro.co.kr,
+건대,(주)세방테크,유선 통신장비 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 법원로,64.0,http://www.sebangtec.co.kr,
+건대,뉴아이텍주식회사,컴퓨터 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 위례성대로,64.0,http://www.newitech.co.kr,
+건대,주식회사그린랩스,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 송파구 정의로8길,64.0,https://www.greenlabs.co.kr,
+건대,가장 행복한 순간을,인물 사진 및 행사용 영상 촬영업,Media/Entertain/Production,서울특별시 송파구 백제고분로,64.0,https://pann.nate.com,
+건대,헥톤프로젝트,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 왕십리로,64.0,https://www.hectonproject.com,contact-main@2x.jpg; abc@hectonproject.com
+건대,미성패밀리(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 삼학사로,63.0,https://www.msfgo.co.kr,
+건대,주식회사 코리아포트원,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로20길,63.0,https://2102change.rank365.co.kr,
+건대,엔라이튼 주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 올림픽로,63.0,https://www.enlighten.kr,re100@enlighten.kr; u003esuccess@enlighten.kr; rtu@enlighten.kr
+건대,삼중테크(주),기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로,62.0,http://www.samjungtech.com,
+건대,주식회사건축사사무소학건축,건축 설계 및 관련 서비스업(건축사),Consulting/Professional Service,서울특별시 성동구 연무장길,62.0,https://www.biztop.co.kr,
+건대,(주)친환경건축이에이그룹,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로,62.0,https://www.biztop.co.kr,
+건대,(주)예정엔지니어링건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 강동구 천호옛길,62.0,http://www.yja.co.kr,
+건대,（주）트리노테크놀로지,기타 반도체 소자 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 송파대로,62.0,https://weseb.com,
+건대,주식회사써티웨어,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로11길,62.0,https://brunch.co.kr,
+건대,주식회사뉴빌리티,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 왕십리로,61.0,https://www.neubility.co.kr,
+건대,(주)이포즌,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 상원1길,61.0,https://www.theteams.kr,
+건대,차란차 주식회사,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 동대문구 천호대로,61.0,https://charancha.com,
+건대,(주)더그리트,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로,61.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,(주)한빛파워,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 성수이로7길,60.0,http://www.hanvitpower.com,
+건대,（주）발맥스기술,유압 기기 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 올림픽로,60.0,https://weseb.com,
+건대,티아이티이엔지(주),사무용 기계 및 장비 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 중대로,60.0,http://www.titeng.co.kr,
+건대,주식회사다인정보기술,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로,60.0,https://weseb.com,
+건대,주식회사 하우저,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로,59.0,https://gall.dcinside.com,
+건대,(주)임픽스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 동대문구 천호대로,59.0,https://weseb.com,
+건대,(주)프리텔레콤,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수이로22길,59.0,https://www.freet.co.kr,
+건대,유원엔지니어링(주),기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 아차산로15길,58.0,http://www.youwoneng.co.kr,
+건대,서울원예농업협동조합,그 외 기타 금융 지원 서비스업,Finance/Investment,서울특별시 중랑구 동일로,58.0,https://www.mimint.co.kr,master@mimint.co.kr
+건대,크로네스코리아(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 법원로,58.0,https://m.catch.co.kr,
+건대,주식회사 엔에이치농협무역,상품 종합 도매업,Logistics/Trading,서울특별시 강동구 올림픽로48길,58.0,https://nhtra.co.kr,
+건대,엔피서비스 주식회사,유선 통신장비 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 백제고분로,58.0,https://weseb.com,
+건대,주식회사 슈빅,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로,58.0,https://diamondflag.co.kr,flag@shuvic.co.kr
+건대,(주)예스씨앤씨,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로,58.0,https://richlori1.com,
+건대,(주)리스크제로,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로,58.0,https://bbs.ruliweb.com,
+건대,(주)케이티에스엔지니어링,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 광나루로6길,57.0,https://weseb.com,
+건대,(주)세은상역,상품 종합 도매업,Logistics/Trading,서울특별시 송파구 송파대로,57.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,(주)아이디어키,광고 대행업,Media/Entertain/Production,서울특별시 송파구 백제고분로,57.0,https://www.ideakey.co.kr,info@ideakey.co.kr
+건대,(주)헤렌,광고 대행업,Media/Entertain/Production,서울특별시 성동구 성수일로8길,57.0,http://www.instarter.kr,instarter@herren.co.kr
+건대,주식회사 하트하트아트앤컬쳐,공연 기획업,Media/Entertain/Production,서울특별시 송파구 송이로23길,57.0,https://www.whitepaper.co.kr,support@dable.io; white@whitepaper.co.kr
+건대,(주)종합건축사사무소 담,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 광진구 아차산로,56.0,http://www.domarchi.co.kr,domarchi@domarchi.co.kr
+건대,(주)동림피엔디,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 법원로,56.0,https://www.life114.co.kr,
+건대,주식회사종합건축사사무소림,건축 설계 및 관련 서비스업(건축사),Consulting/Professional Service,서울특별시 성동구 성수이로,56.0,https://www.biztop.co.kr,
+건대,주식회사 인포유앤컴퍼니,경영 컨설팅업,Consulting/Professional Service,서울특별시 성동구 성수일로,56.0,http://in4ucloud.com,sales@in4ucloud.com
+건대,(주)에스바이오메딕스,상품 종합 도매업,Logistics/Trading,서울특별시 성동구 성수이로26길,56.0,https://www.sbiomedics.com,info@sbiomedics.com
+건대,루키스(주),유선 통신장비 제조업,Manufacturing/Industrial Ops,서울특별시 성동구 성수일로4길,56.0,https://weseb.com,
+건대,지니너스주식회사(GENINUSInc.),기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 송파구 정의로,56.0,https://www.kr-geninus.com,
+건대,(주)더앤트,공연 기획업,Media/Entertain/Production,서울특별시 성동구 아차산로,56.0,https://biz.heraldcorp.com,
+건대,주식회사에이아이스페라,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 연무장5가길,56.0,https://brunch.co.kr,
+건대,주식회사피에프디,화장품 및 화장용품 도매업,Logistics/Trading,서울특별시 광진구 아차산로,55.0,https://5105egg15.rank365.co.kr,
+건대,주식회사 노비텍,물질 검사  측정 및 분석 기구 제조업,Manufacturing/Industrial Ops,서울특별시 송파구 송파대로,55.0,https://www.novitec.co.kr,sales@novitec.co.kr
+건대,주식회사 딜라이브송파케이블티브이,방송 프로그램 제작업,Media/Entertain/Production,서울특별시 송파구 송파대로,55.0,https://opengov.seoul.go.kr,
+건대,주식회사디에스이트레이드,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로11길,55.0,http://www.ds-etrade.co.kr,hanaguna@ds-etrade.co.kr
+건대,(주)엑스텐스튜디오 (Extenstudio Inc.),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 상원12길,55.0,https://bizno.net,
+건대,(주)우지컴퍼니,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 법원로11길,54.0,http://wwv.soonwidot.co.kr,
+건대,(주)에이비라인건축사사무소,건축 설계 및 관련 서비스업,Consulting/Professional Service,,54.0,http://www.abline.com,
+건대,앞썬아이앤씨(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 마천로27길,54.0,https://www.apsuninc.com,
+건대,사단법인 대한항암요법연구회,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 성동구 아차산로,54.0,https://weseb.com,
+건대,주식회사 라미체1,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 백제고분로7길,53.0,https://weseb.com,
+건대,(주)단우기술단,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 송파대로,53.0,http://www.danwooenc.co.kr,
+건대,사단법인 한국의료관광산업발전연구회 서울메디투어의원,경영 컨설팅업,Consulting/Professional Service,서울특별시 동대문구 장한로,53.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,민물장어양식수산업협동조합,국내은행,Finance/Investment,서울특별시 송파구 중대로,53.0,https://weseb.com,
+건대,(주)이룸코리아,상품 종합 도매업,Logistics/Trading,서울특별시 강동구 풍성로65길,53.0,https://www.theteams.kr,
+건대,주식회사 아이큐패드,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로6길,53.0,http://www.iqpad.com,sales@iqpad.com
+건대,(주)블루비즈랩,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로,53.0,http://bluebizlab.co.kr,bizinfo@bluebizlab.co.kr; careers@bluebizlab.co.kr
+건대,식스티헤르츠주식회사,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 왕십리로,53.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,코토적산(주),기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 성동구 광나루로8길,52.0,https://weseb.com,
+건대,주식회사 드림구조,건축 설계 및 관련 서비스업,Consulting/Professional Service,서울특별시 성동구 왕십리로,52.0,https://bbs.ruliweb.com,
+건대,보덕메디팜(주),의약품 도매업,Healthcare/Pharma,서울특별시 광진구 자양로38길,52.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,대신로지스틱스(주）,화물 운송 중개  대리 및 관련 서비스업,Logistics/Trading,서울특별시 송파구 오금로46길,52.0,https://weseb.com,
+건대,렙테크(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 법원로,52.0,http://www.hanillab.co.kr,
+건대,(주)트레져헌터,영화  비디오물 및 방송 프로그램 제작 관련 서비스업,Media/Entertain/Production,서울특별시 성동구 성수이로20길,52.0,https://historykorea.kr,Jinha.Kim@aenetworks.com; Joongbum.Sung@aenetworks.com; u003EDigitalBusiness@aenetworks.com
+건대,글로우업리즈 주식회사,영화  비디오물 및 방송 프로그램 제작 관련 서비스업,Media/Entertain/Production,서울특별시 성동구 연무장19길,52.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,주식회사 리드스피커코리아 ReadSpeaker Korea Co.  Ltd.,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로,52.0,https://goum75.com,
+건대,(주)인콤,컴퓨터 시스템 통합 자문 및 구축 서비스업,Tech/Startup/SaaS,서울특별시 강동구 고덕비즈밸리로2가길,52.0,http://www.icomsoft.co.kr,se@icomsoft.co.kr; sales@icomsoft.co.kr
+건대,(주)새길이엔시,기타 엔지니어링 서비스업,Consulting/Professional Service,서울특별시 송파구 송파대로,51.0,https://saegil.co.kr,
+건대,주식회사 드림위더스,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 중대로23길,51.0,https://weseb.com,
+건대,주식회사로프트아일랜드,경영 컨설팅업,Consulting/Professional Service,서울특별시 송파구 올림픽로,51.0,https://viewtrap.com,
+건대,(주)매머드커피아이앤씨,광고 대행업,Media/Entertain/Production,서울특별시 송파구 삼전로2길,51.0,https://career.axzcorp.com,careers@axzcorp.com
+건대,주식회사씨케이앤비,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로8길,51.0,https://www.thefirstmedia.net,thefirst@thefirstmedia.net
+건대,우덕회계법인,공인회계사업,Consulting/Professional Service,서울특별시 송파구 법원로11길,50.0,http://www.wdcpa.co.kr,
+건대,오투스세무법인 서울분사무소,공인회계사업,Consulting/Professional Service,서울특별시 중랑구 사가정로,50.0,http://carmap.co.kr,
+건대,웅비메디텍(주),상품 종합 도매업,Logistics/Trading,서울특별시 송파구 송파대로,50.0,http://www.woongbee.com,
+건대,시너지월드와이드코리아(주),상품 종합 도매업,Logistics/Trading,서울특별시 강동구 고덕비즈밸리로2가길,50.0,https://www.synergyworldwide.com,
+건대,(주)에임드바이오,기타 인문 및 사회과학 연구개발업,Media/Entertain/Production,서울특별시 송파구 정의로,50.0,https://www.aimedbio.com,aimedbio@aimedbio.com
+건대,(주)우리엔아이에스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 송파구 법원로11길,50.0,http://www.woorinis.com,webmaster@woorinis.com
+건대,(주)데일리팜,데이터베이스 및 온라인 정보 제공업,Tech/Startup/SaaS,서울특별시 송파구 법원로,50.0,https://www.dailypharm.com,
+건대,(주)제이니스,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 성수일로,50.0,http://www.jness.co.kr,
+건대,주식회사위즈베라,응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 왕십리로6길,50.0,http://www.wizvera.com,
+건대,주식회사 클라비,컴퓨터 시스템 통합 자문 및 구축 서비스업,Tech/Startup/SaaS,서울특별시 송파구 법원로,50.0,http://www.clabien.com,
+건대,핌즈(주),응용 소프트웨어 개발 및 공급업,Tech/Startup/SaaS,서울특별시 성동구 아차산로,50.0,http://www.kipost.net,admin@kipost.net
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,
+가디,,,,,,,

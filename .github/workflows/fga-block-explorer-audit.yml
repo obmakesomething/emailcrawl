@@ -1,0 +1,86 @@
+name: FGA block explorer bounty audit
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/fga-block-explorer-audit.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit-rustchain-explorer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      FGA_ORIGIN: https://fga-demo-5wvarmkeaq-du.a.run.app
+      TARGET_URL: https://50.28.86.131/explorer
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify deployed fga-engine is reachable
+        run: curl --fail --silent --show-error --max-time 30 "$FGA_ORIGIN/analyze" >/dev/null
+
+      - name: Invoke fga-engine audit API
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p artifacts/fga-explorer
+          python - <<'PY' > artifacts/fga-explorer/request.json
+          import json, os
+          print(json.dumps({"url": os.environ["TARGET_URL"]}))
+          PY
+
+          http_code=$(curl \
+            --silent --show-error \
+            --max-time 300 \
+            --output artifacts/fga-explorer/audit-response.json \
+            --write-out '%{http_code}' \
+            --request POST \
+            --header 'content-type: application/json' \
+            --data @artifacts/fga-explorer/request.json \
+            "$FGA_ORIGIN/api/audit")
+
+          cat artifacts/fga-explorer/audit-response.json
+          test "$http_code" = "200"
+
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          root = Path("artifacts/fga-explorer")
+          data = json.loads((root / "audit-response.json").read_text())
+          required = ["runId", "reportUrl", "pdfUrl", "status"]
+          missing = [key for key in required if not data.get(key)]
+          if missing:
+              raise SystemExit(f"FGA response missing: {', '.join(missing)}")
+          if int(data.get("pageCount") or 0) < 3:
+              raise SystemExit(f"Bounty requires 3+ pages; FGA captured {data.get('pageCount')}")
+          with open(os.environ["GITHUB_ENV"], "a", encoding="utf-8") as env:
+              env.write(f"FGA_RUN_ID={data['runId']}\n")
+              env.write(f"FGA_REPORT_PATH={data['reportUrl']}\n")
+              env.write(f"FGA_PDF_PATH={data['pdfUrl']}\n")
+          (root / "summary.json").write_text(json.dumps(data, indent=2) + "\n")
+          PY
+
+      - name: Download FGA report and evidence files
+        shell: bash
+        run: |
+          set -euo pipefail
+          root="artifacts/fga-explorer"
+          curl --fail --silent --show-error --location "$FGA_ORIGIN$FGA_REPORT_PATH" --output "$root/report.html"
+          curl --fail --silent --show-error --location "$FGA_ORIGIN$FGA_PDF_PATH" --output "$root/report.pdf"
+          for file in capture.json route-state-verdicts.json report.md recommendations.json; do
+            code=$(curl --silent --show-error --location --output "$root/$file" --write-out '%{http_code}' "$FGA_ORIGIN/reports/$FGA_RUN_ID/$file")
+            if [ "$code" != "200" ]; then rm -f "$root/$file"; fi
+          done
+          sha256sum "$root"/* > "$root/SHA256SUMS.txt"
+
+      - name: Upload immutable FGA evidence bundle
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fga-rustchain-block-explorer-audit
+          path: artifacts/fga-explorer
+          if-no-files-found: error
+          retention-days: 30
